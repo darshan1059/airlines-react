@@ -1,0 +1,125 @@
+/* body {
+  color: #222;
+  cursor: auto;
+  font-family: roboto-regular, Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100%;
+
+  line-height: 24px;
+} */
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+/* .booking-form-box {
+  position: relative;
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+  float: left;
+}
+.booking-form {
+  margin-bottom: 10px;
+  margin-top: 50px;
+  font-size: 12px;
+  color: #fff;
+}
+.input-grp {
+  width: inline-box;
+  display: inline-block;
+}
+.form-control {
+  font-size: 12 px !important;
+  border-radius: 0 !important;
+  color: black !important;
+  background: white !important;
+  box-shadow: inset !important;
+}
+.select-date::-webkit-inner-spin-button,
+.select-date::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.select-date.select-date::-webkit-calender-picker-indicator {
+  background: #fff !important;
+  border-radius: 4px !important;
+  margin-bottom: 8px !important;
+  min-height: 108px !important;
+  padding: 12px 0 !important;
+}
+.custom-select {
+  color: black !important;
+  font-size: 12 px;
+  border: 1px solid #ced4da !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  background: white !important;
+}
+.custom-select-option {
+  color: #333;
+}
+.flight {
+  width: 100%;
+  padding: 9px 0;
+  font-size: 12px !important;
+  border: 1px solid#ced4da !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+.flight:hover {
+  background: #fff !important;
+  color: #000 !important;
+  transition: 0.5s;
+}
+label {
+  font-family: roboto-regular, roboto-regular;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: #292929;
+  display: block;
+  line-height: 1rem;
+  font-size: 1rem;
+  margin-bottom: 6px;
+  top: 25px;
+  left: 20px;
+  z-index: 10;
+  -webkit-transition: 0.2s ease all;
+  transition: 0.2s ease all;
+}
+.Card1 {
+  background: #eee;
+  border-radius: 6px 6px 0 0;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  height: 160px;
+  width: 160px;
+  margin-right: 1px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  max-width: 160px;
+  padding: 33px 0;
+  padding-top: 33px;
+  padding-right: 0px;
+  padding-bottom: 33px;
+  padding-left: 0px;
+  text-align: center;
+  box-sizing: inherit;
+  cursor: pointer;
+  list-style: none;
+  list-style-position: outside;
+  list-style-image: none;
+  list-style-type: none;
+  font-size: 1rem;
+  font-family: roboto-regular;
+  color: #292929;
+  line-height: 24px;
+  font-style: normal;
+  font-weight: 400;
+} */
+/* .booking-card {
+ 
+} */
